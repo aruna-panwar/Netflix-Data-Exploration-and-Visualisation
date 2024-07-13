@@ -50,3 +50,7 @@ The dataset consists of a list of all the TV shows/movies available on Netflix:
 
 6.Understanding what content is available in different countries
 
+# Objectives of the Project
+• Perform EDA on the given dataset and find insights.
+
+• Provide Useful Insights and Business recommendations that can help the business to grow.
